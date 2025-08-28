@@ -1,4 +1,4 @@
-# Speech_Emotion_Recognition_CNN-BiLSTM_Model
+# Speech_Emotion_Recognition_CNN_Log-Mel Spectogram
 
 ## Link
 
