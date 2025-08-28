@@ -2,8 +2,6 @@
 
 ## Link
 
-Dataset : https://www.kaggle.com/datasets/ejlok1/cremad
-
 Streamlit : https://speech-emotion-recognition-cnn-bilstm-model.streamlit.app/
 
 ## How to RUN using VSCode Terminal
